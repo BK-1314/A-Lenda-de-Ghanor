@@ -1,0 +1,2 @@
+# Pontos de Vida (PV)
+Representam a saúde e a vitalidade do personagem. Quando seu personagem é ferido, seja por cair de um barranco,seja por ser dilacerado por um troll, sofre dano. O dano diminui seus PV.  caso seus PV cheguem a 0, você começa a morrer.

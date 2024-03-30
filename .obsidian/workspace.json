@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "1ce48e19ef4e6f0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8943b8b451439ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ddf23fab2ca0957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livro de Regras/Criando Personagens/Classes/Caçador.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0eddfc6ed0e3584",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Aumento de Atributo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2ed617f44b3f6f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "595be683e4c68c95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cb8fe7f3148f89d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "acb15f1b7cc3b8e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56b7203b658c4e37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 417.5
+  },
+  "right": {
+    "id": "e7dfec11c8dd2d8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "abe7d85babcc10f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8bfe2a30ffc849c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Aumento de Atributo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c2ef2de887655e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Aumento de Atributo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e930670f9c2e6be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ad9bf82f68739c28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Aumento de Atributo.md"
+              }
+            }
+          },
+          {
+            "id": "40080a0217dbee5e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "moulinette:Moulinette Browser": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "c0eddfc6ed0e3584",
+  "lastOpenFiles": [
+    "Livro de Regras/Criando Personagens/Classes/Caçador.md",
+    "Livro de Regras/Criando Personagens/Classes/Bucaneiro.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Entrada Triunfal.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/En Garde.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Charme Salvador.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Bravata Audaz.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Bravata Imprudente.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Apostador.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Ataque Acrobático.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Aventureiro Ávido.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Amigos no Porto.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Aparar.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Touché.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Ripostar.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Presença Paralisante.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Pernas do Mar.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Ousadia Inconsequente.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Mão Amiga.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Galanteio Encorajador.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Folião.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Flagelo dos Mares.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Esgrimista.md",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe/Abusar dos Fracos.md",
+    "Livro de Regras/Criando Personagens/Classes/Habilidades de Classe/Sorte dos Ousados.md",
+    "Livro de Regras/Criando Personagens/Classes/Habilidades de Classe/Evasão Aprimorada.md",
+    "Livro de Regras/Criando Personagens/Classes/Habilidades de Classe/Panache.md",
+    "ajuda.py",
+    "Livro de Regras/Criando Personagens/Classes/Poderes de Classe",
+    "Livro de Regras/Criando Personagens/Classes/Habilidades de Classe",
+    "Livro de Regras/Criando Personagens/Raças/Habilidades de Raça/Mutações",
+    "z-Templates",
+    "Livro de Regras/Criando Personagens/Raças/Habilidades de Raça",
+    "Imagens/Royco/Logan Royco.png",
+    "Imagens/Royco/Logan Roy.png",
+    "Imagens/Royco/Ducado Waystar.png",
+    "Imagens/Royco/Logan Roy.webp",
+    "Imagens/Royco",
+    "Imagens/raça/Meio Elfo.png",
+    "Imagens/raça/Meio Elfo Ilustação.png",
+    "Imagens/raça/Humano Logo.png",
+    "Imagens/raça/Humano Ilustração.png",
+    "Imagens/raça/Hobgoblin Logo.png",
+    "Imagens/raça/Hobgoblin Ilustração.png",
+    "Imagens/raça",
+    "Imagens/Feitiço Sangrento/Feitiço Sangrento.pptx",
+    "Imagens/Feitiço Sangrento"
+  ]
+}

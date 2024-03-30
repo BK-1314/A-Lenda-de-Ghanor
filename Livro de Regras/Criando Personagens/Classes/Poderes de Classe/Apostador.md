@@ -1,0 +1,3 @@
+# *Apostador*
+
+Você pode gastar um dia para encontrar e participar de apostas ou jogos de azar. Escolha um valor e faça um teste de Enganação contra a CD correspondente: 100 PP (CD 15), 200 PP (CD 20), 400 PP (CD 25), 800 PP (CD 30), 1.600 PP (CD 35) e assim por diante. Se passar, você ganha o valor escolhido (ou um item ou favor equivalente, a critério do mestre). Se falhar, perde esse mesmo o valor. A critério do mestre, o lugar onde você está pode limitar ou impossibilitar o uso deste poder. Pré-requisito: treinado em Enganação.

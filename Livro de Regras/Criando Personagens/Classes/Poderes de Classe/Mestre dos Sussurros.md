@@ -1,0 +1,3 @@
+# *Mestre dos Sussurros*
+
+Você é dissimulado, atento para rumores e ótimo em espalhar fofocas. Quando faz um teste de Investigação para obter informação ou um teste de Enganação para intriga, você rola dois dados e usa o melhor resultado. Além disso, pode fazer esses testes em ambientes sociais (taverna, festival, corte...) sem custo e em apenas uma hora (em vez de um dia). Pré-requisitos: Car 1, treinado em Enganação e Investigação.

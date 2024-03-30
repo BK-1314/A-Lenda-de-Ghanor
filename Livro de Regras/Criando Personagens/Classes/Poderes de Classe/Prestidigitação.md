@@ -1,0 +1,3 @@
+# *Prestidigitação*
+
+Quando faz uma ação padrão qualquer, você pode aproveitar seus gestos para lançar uma magia com tempo de execução de uma ação completa ou menor. Faça um teste de Atuação (CD 15 + custo em PM da magia). Se passar, você lança a magia como uma ação livre. Outros personagens só percebem que você lançou uma magia se passarem num teste de Misticismo (CD 20). Se falhar, a magia não funciona, mas você gasta os PM mesmo assim.

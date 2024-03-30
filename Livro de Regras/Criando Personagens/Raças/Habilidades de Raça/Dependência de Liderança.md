@@ -1,0 +1,3 @@
+# *Dependência de Liderança*
+
+Você possui uma necessidade instintiva de seguir uma figura de liderança. Escolha outro personagem (geralmente aquele de maior Carisma) como o líder. Embora não seja forçado a obedecê-lo, você tem a tendência de ouvir os conselhos e opiniões do líder de maneira mais favorável. Você nunca age antes do líder, e sofre –1 em testes de perícia se estiver distante dele (além de alcance médio).
