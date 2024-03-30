@@ -1,0 +1,3 @@
+# *Caminho do Cavaleiro*
+
+No 5º nível, escolha entre Bastião ou Montaria. Bastião. Se estiver usando armadura pesada, você recebe redução de dano 5. Montaria. Você recebe um cavalo de guerra veterano com o qual possui +5 em Adestramento e Cavalgar (veja a página 216). No 11º nível, ele se torna um cavalo de guerra mestre. Caso seu cavalo morra, você pode comprar outro pelo preço normal e treiná-lo para receber os benefícios desta habilidade com uma semana de trabalho. De acordo com o mestre, você pode receber outro tipo de montaria.

@@ -1,0 +1,3 @@
+# *Explorador*
+
+No 3º nível, escolha um tipo de terreno entre ártico, colina, deserto, floresta, montanha, pântano, planície, subterrâneo ou urbano. Quando estiver no tipo de terreno escolhido, você soma sua Sabedoria (mínimo +1) na Defesa e nos testes de Acrobacia, Atletismo, Furtividade, Percepção e Sobrevivência. A cada quatro níveis, escolha outro tipo de terreno para receber o bônus ou aumente o bônus em um tipo de terreno já escolhido em +2.

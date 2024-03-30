@@ -1,0 +1,3 @@
+# *Título*
+
+Você adquire um título de nobreza. Converse com o mestre para definir os benefícios exatos de seu título. Como regra geral, no início de cada aventura você recebe 20 PO por nível (rendimentos dos impostos) ou a ajuda de um parceiro veterano (um membro de sua corte). Se você for um regente, seu título garante ainda mais autoridade sobre sua terra, fornecendo +2 em testes de domínio. Pré-requisitos: Autoridade Feudal, 10º nível de cavaleiro, ter conquistado terras ou realizado um serviço para um nobre que possa se tornar seu suserano.

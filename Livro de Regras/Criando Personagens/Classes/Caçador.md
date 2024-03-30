@@ -22,8 +22,60 @@ Armas marciais e escudos.
 
 ## <span style="color:rgb(59, 98, 105)">Habilidades de Classe</span>
 
-<span style="color:rgb(170, 137, 59)">Caracteristica</span>
+* [[Marca da Presa]]
+* [[Rastreador]]
+* [[Poder de Caçador]]
+* [[Explorador]]
+* [[Caminho do Explorador]]
+* [[Mestre Caçador]]
 
 ## <span style="color:rgb(59, 98, 105)">Poderes</span>
 
-<span style="color:rgb(170, 137, 59)">Caracteristica</span>
+* [[Ambidestria]]
+* [[Armadilha - Arataca]]
+* [[Armadilha - Espinhos]]
+* [[Armadilha - Laço]]
+* [[Armadilha - Rede]]
+* [[Armadilheiro]]
+* [[Arqueiro]]
+* [[Aumento de Atributo]]
+* [[Ambidestria]]
+* [[Camuflagem]]
+* [[Chuva de Lâminas]]
+* [[Companheiro Animal]]
+* [[Elo com a Natureza]]
+* [[Emboscar]]
+* [[Empatia Selvagem]]
+* [[Ervas Curativas]]
+* [[Escaramuça]]
+* [[Escaramuça Superior]]
+* [[Espreitar]]
+* [[Ímpeto]]
+* [[Inimigo de (Criatura)]]
+* [[Mestre Armadilheiro]]
+* [[Olho do Falcão]]
+* [[Ponto Fraco]]
+* [[Tiro em Linha]]
+
+| Nível | Habilidade de Classe |
+|-------|---------------------|
+| 1º    | Marca da presa +1d4, rastreador |
+| 2º    | Poder de caçador |
+| 3º    | Explorador, poder de caçador |
+| 4º    | Poder de caçador |
+| 5º    | Caminho do explorador, marca da presa +1d8, poder de caçador |
+| 6º    | Poder de caçador |
+| 7º    | Explorador, poder de caçador |
+| 8º    | Poder de caçador |
+| 9º    | Marca da presa +1d12, poder de caçador |
+| 10º   | Poder de caçador |
+| 11º   | Explorador, poder de caçador |
+| 12º   | Poder de caçador |
+| 13º   | Marca da presa +2d8, poder de caçador |
+| 14º   | Poder de caçador |
+| 15º   | Explorador, poder de caçador |
+| 16º   | Poder de caçador, tradição mágica |
+| 17º   | Marca da presa +2d10, poder de caçador |
+| 18º   | Poder de caçador |
+| 19º   | Explorador, poder de caçador |
+| 20º   | Mestre caçador, poder de caçador |

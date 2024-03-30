@@ -1,0 +1,3 @@
+# *Escudeiro*
+
+Você recebe os serviços de um escudeiro, um parceiro que cuida de seu equipamento e pode auxiliá-lo em combate. Suas armas fornecem +1 em rolagens de dano e sua armadura fornece +1 na Defesa. Além disso, você pode pagar 1 PM para receber uma ação de movimento, que pode usar para se levantar, sacar um item ou trazer sua montaria. O escudeiro não conta em seu limite de parceiros. Caso ele morra, você pode treinar outro com uma semana de trabalho.

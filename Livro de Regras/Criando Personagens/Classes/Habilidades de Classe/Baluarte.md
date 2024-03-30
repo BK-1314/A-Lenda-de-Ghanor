@@ -1,0 +1,3 @@
+# *Baluarte*
+
+Quando sofre um ataque ou faz um teste de resistência, você pode gastar e 1 PM para receber +2 na Defesa e nos testes de resistência até o início do seu próximo turno. A cada quatro níveis, pode gastar +1 PM para aumentar o bônus em +2. A partir do 7º nível, você pode gastar 2 PM adicionais para fornecer o mesmo bônus a todos os aliados adjacentes. Por exemplo, pode gastar 4 PM ao todo para você e seus aliados adjacentes receberem +4 na Defesa e nos testes de resistência. A partir do 15º nível, pode gastar 5 PM adicionais para fornecer o mesmo bônus a todos os aliados em alcance curto.
