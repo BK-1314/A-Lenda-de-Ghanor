@@ -1,0 +1,3 @@
+# *Fuga Formidável*
+
+Você pode gastar uma ação completa e 1 PM para analisar o lugar no qual está (castelo, porto, praça da cidade...). Até o fim da cena, recebe +3m em seu deslocamento, +5 em Acrobacia e Atletismo e ignora penalidades em movimento por terreno difícil. Você perde esses benefícios se fizer uma ação que não seja diretamente relacionada a fugir. Por exemplo, você só pode atacar um inimigo se ele estiver bloqueando seu caminho, agarrando-o etc. Você pode fazer ações para ajudar seus aliados, mas apenas se eles estiverem tentando escapar. Pré-requisito: Int 1.

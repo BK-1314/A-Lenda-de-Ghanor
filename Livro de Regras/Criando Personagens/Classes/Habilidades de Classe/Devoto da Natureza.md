@@ -1,0 +1,3 @@
+# *Devoto da Natureza*
+
+Você possui uma conexão especial com a natureza. Para você, dormir ao relento conta como descanso confortável. Por outro lado, dormir em qualquer comunidade maior que uma aldeia conta como descanso ruim. Além disso, você não pode usar armaduras e escudos feitos de metal (só pode usar armadura acolchoada, armadura de couro, gibão de peles e escudo leve). Se violar essa restrição, perde todos os seus pontos de mana e só pode recuperá-los a partir do próximo dia. Se violar essa restrição pela segunda vez na mesma aventura, perde todos os seus PM e só pode recuperá-los se fizer uma penitência (veja a perícia Religião, na página 83).

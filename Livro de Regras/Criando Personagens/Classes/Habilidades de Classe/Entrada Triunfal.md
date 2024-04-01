@@ -1,3 +1,0 @@
-# *Entrada Triunfal*
-
-Uma vez por aventura, no início de uma cena em que houver outras pessoas (como ao chegar em um baile ou taverna), você pode fazer um teste de uma perícia a sua escolha (CD 20). Essa perícia deve se relacionar com sua entrada triunfal — por exemplo, Acrobacia para surgir balançando-se no castiçal do salão ou Diplomacia para um discurso impressionante (o mestre tem a palavra final sobre a escolha da perícia). Se passar, você recebe 5 PM temporários, +5 PM para cada 10 pontos pelos quais o resultado do teste exceder a CD (10 PM para um resultado 30, 15 PM para um resultado 40 e assim por diante).

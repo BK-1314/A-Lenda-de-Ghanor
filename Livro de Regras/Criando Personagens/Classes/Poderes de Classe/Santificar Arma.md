@@ -1,0 +1,3 @@
+# *Santificar Arma*
+
+Você pode gastar uma ação de movimento e 3 PM para infundir com poder divino uma arma que esteja empunhando. Até o final da cena, a arma é considerada mágica e emite luz em um raio de 9m. Além disso, o dano da arma aumenta em um passo e você pode usar sua Sabedoria em testes de ataque e rolagens de dano com ela, em vez do atributo padrão (não cumulativo com efeitos que somem Sabedoria).

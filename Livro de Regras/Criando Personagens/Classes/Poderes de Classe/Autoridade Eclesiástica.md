@@ -1,0 +1,3 @@
+# *Autoridade Eclesiástica*
+
+Você possui uma posição formal em sua ordem. Os efeitos deste poder variam de acordo com o santo — clérigos de São Theodric, por exemplo, são considerados representantes da lei em certos lugares — e ficam a cargo do mestre. Como regra geral, você recebe +5 em testes de Diplomacia ou Intimidação ao lidar com devotos de seu santo e paga metade do preço de itens alquímicos, poções e serviços em templos de sua ordem. Pré-requisito: 5º nível de clérigo.

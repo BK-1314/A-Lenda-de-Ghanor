@@ -27,7 +27,9 @@ Armas marciais
 * [[Poder de Bardo]]
 * [[Eclético]]
 * [[Artista Completo]]
-* Magias: Você pode lançar magias de bardo de 1º círculo. À medida que sobe de nível, pode lançar magias de círculos maiores (2º círculo no 6º nível, 3º círculo no 10º nível e 4º círculo no 14º nível). Você começa com duas magias de 1º círculo. A cada nível par (2º, 4º etc.), aprende uma magia de qualquer círculo que possa lançar. Você pode lançar essas magias vestindo armaduras leves sem precisar de testes de Misticismo. Seu atributo-chave para lançar magias é Carisma e você soma seu Carisma ao seu total de PM.
+* Magias: Você pode lançar magias de bardo de 1º círculo. À medida que sobe de nível, pode lançar magias de círculos maiores (2º círculo no 6º nível, 3º círculo no 10º nível e 4º círculo no 14º nível).
+Você começa com duas magias de 1º círculo. A cada nível par (2º, 4º etc.), aprende uma magia de qualquer círculo que possa lançar. Você pode lançar essas magias vestindo armaduras leves sem precisar de testes de Misticismo.
+Seu atributo-chave para lançar magias é Carisma e você soma seu Carisma ao seu total de PM.
 
 ## <span style="color:rgb(59, 98, 105)">Poderes de Bardo</span>
 

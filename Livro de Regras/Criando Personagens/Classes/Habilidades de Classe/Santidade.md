@@ -1,0 +1,3 @@
+# *Santidade*
+
+No 20º nível, você pode gastar uma ação completa e 15 PM para lançar três magias de seu santo (de qualquer círculo, incluindo magias que você não conhece), como uma ação livre e sem gastar PM (mas ainda precisa pagar outros custos). Você pode aplicar aprimoramentos, mas precisa pagar por eles. Após usar esta habilidade, você fica atordoado por 1d4 rodadas (mesmo se for imune a esta condição). Corpos mortais não foram feitos para lidar com tanto poder.

@@ -1,0 +1,3 @@
+# *Fiéis*
+
+Você atrai um pequeno grupo de seguidores religiosos. Você define os detalhes desses seguidores, como quantidade, raça e outras características, mas o mestre deve aprovar qualquer escolha. Seus fiéis funcionam como um parceiro iniciante de um tipo a sua escolha. Eles podem ajudá-lo com seu equipamento (parceiro carregador), rezar para potencializar suas magias (adepto) ou mesmo lutar por você (turba). No 7º nível, eles mudam para veterano e, no 15º nível, para mestre. Se você violar suas normas, eles o abandonam. Se eles o abandonarem ou morrerem, você pode reunir outros com uma semana de pregação. Pré-requisito: Car 1, 5º nível de clérigo.
